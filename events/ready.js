@@ -60,5 +60,5 @@ client.on(`ready`, async () => {
             })
             homeworksMsg.edit({ embeds: [embed] })
         })
-    }, ms("30s"))
+    }, ms("15m"))
 })
