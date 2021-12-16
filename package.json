@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@dorian-eydoux/pronote-api": "^2.3.4",
+    "discord.js": "^13.3.1",
+    "ms": "^2.1.3"
+  }
+}
