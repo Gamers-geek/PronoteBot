@@ -2,6 +2,9 @@
 
 [![](https://img.shields.io/discord/641706601157361664?label=Gamers-geek&logo=discord&logoColor=%23fff)](https://discord.gg/7ykdCWQGE6)
 
+# ARCHIVE
+Ce bot utilise une vieille version de l'API Discord et n'est plus mis à jour.
+
 ## Fonctionnalités
 
 PronoteBot permet de récupérer votre emploi du temps ainsi que vos devoirs toutes les 30 minutes via l'API (non officielle) de Pronote. Ces informations sont par la suite envoyés dans un message sous forme d'intégration (embed) sur Discord.
